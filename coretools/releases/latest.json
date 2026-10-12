@@ -1,31 +1,31 @@
 {
   "app": "coretools",
   "name": "CoreTools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-12",
-  "releaseUrl": "https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.0.0",
+  "releaseUrl": "https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.0.1",
   "checksumsUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/SHA256SUMS.txt",
   "assets": [
     {
       "name": "CoreTools-Windows-Setup.exe",
-      "size": 4512837,
-      "sha256": "b6634e6ea1f8414ab88ab3dfb028cb74ee74291cc609e1c4fde06a5789de5be2",
+      "size": 4515122,
+      "sha256": "b5adb95bc0b659a8b81ed6252fc19eb5fa5bc9d9530c03dbbda71eaad50a8b0b",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Windows-Setup.exe",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.0/CoreTools-Windows-Setup.exe"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.1/CoreTools-Windows-Setup.exe"
     },
     {
       "name": "CoreTools-macOS.dmg",
-      "size": 11692066,
-      "sha256": "53c3288a487b3de1e99b5c5cb386a1d22f3f2d3f307a7d7d5bbafbc6168fdb5f",
+      "size": 11724397,
+      "sha256": "2905f5fd10184f1b4c6628f792b81c8b7b095d24edd772654271f10a0f092018",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-macOS.dmg",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.0/CoreTools-macOS.dmg"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.1/CoreTools-macOS.dmg"
     },
     {
       "name": "CoreTools-Linux.AppImage",
       "size": 84376056,
-      "sha256": "02fee168d9ce80b93735d9c4f405c77e085f7b9a7ed4276ac5c4092c2d2d2d5c",
+      "sha256": "55679b073de4fc9f51663d031666c301686eeb8970d41a3bd63e0408b4b5e2b3",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Linux.AppImage",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.0/CoreTools-Linux.AppImage"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.0.1/CoreTools-Linux.AppImage"
     }
   ]
 }

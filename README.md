@@ -7,5 +7,5 @@ Public release downloads.
 <!-- apps:start -->
 | Application | Latest | Downloads & history |
 | --- | --- | --- |
-| CoreTools | v1.0.0 (2026-10-12) | [coretools/releases](coretools/releases) |
+| CoreTools | v1.0.1 (2026-10-12) | [coretools/releases](coretools/releases) |
 <!-- apps:end -->
