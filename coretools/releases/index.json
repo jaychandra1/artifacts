@@ -3,6 +3,27 @@
   "name": "CoreTools",
   "versions": [
     {
+      "version": "1.1.0",
+      "date": "2026-10-13",
+      "assets": [
+        {
+          "name": "CoreTools-Windows-Setup.exe",
+          "size": 4529474,
+          "sha256": "9889542b278eba766baabe393bdff2c99abf5481dd9ee8b229e5f8e74f2689c6"
+        },
+        {
+          "name": "CoreTools-macOS.dmg",
+          "size": 11754052,
+          "sha256": "4736a12141396d5b2610f6196238ebae52b5c75027619613125fa3d10029783e"
+        },
+        {
+          "name": "CoreTools-Linux.AppImage",
+          "size": 84408824,
+          "sha256": "be026d450d381352b8ee4214a5205401cd0e9eb4b6f24e7c2d7b71493fe85d59"
+        }
+      ]
+    },
+    {
       "version": "1.0.1",
       "date": "2026-10-12",
       "assets": [
