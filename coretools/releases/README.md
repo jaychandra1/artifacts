@@ -1,6 +1,6 @@
 # CoreTools releases
 
-Latest: **v1.2.3** — 2026-10-15
+Latest: **v1.2.4** — 2026-10-15
 
 ## Download the latest
 
@@ -8,10 +8,10 @@ These links never change; they always serve the newest version.
 
 | File | Size | SHA-256 |
 | --- | --- | --- |
-| [CoreTools-Windows-Setup.exe](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Windows-Setup.exe) | 4.4 MB | `57be6dd650c31041bbefcbf5ef506855850c4ce31b137f2306412e1ffdd6485c` |
-| [CoreTools-macOS.dmg](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-macOS.dmg) | 11.3 MB | `1d208eba7a7c74d15ecfe0460d3e39cd4d1060e89752ce4ce40f6393cd704708` |
-| [CoreTools-Linux.AppImage](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Linux.AppImage) | 80.6 MB | `add7b86b054f6ec81e0c073d6dd1315d6db1db0a5233a88446fd1c6c67a56bfb` |
-| [CoreTools-sbom.cdx.json](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-sbom.cdx.json) | 843 KB | `df3bbcbdcafd36cdabf73ace327500ffcdebf7c42bf62351b201f79e7708501a` |
+| [CoreTools-Windows-Setup.exe](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Windows-Setup.exe) | 4.4 MB | `af3e65e4fe3980ea5adca179542ac73173f6b15909b9bfc73ca028a5c1cf113d` |
+| [CoreTools-macOS.dmg](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-macOS.dmg) | 11.3 MB | `9b790b62b3c7e621a97e48c108a342a577c709a5db7007cef753f374d7d797e3` |
+| [CoreTools-Linux.AppImage](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Linux.AppImage) | 80.6 MB | `d442c09e39bb0f2d508187d59612c38fb8cd180796a810a844c85c94f6afe0b2` |
+| [CoreTools-sbom.cdx.json](https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-sbom.cdx.json) | 843 KB | `cca40c6e0dea57633149357ed20aa38573e7f15f3182c62b629075693b00f10b` |
 
 Verify a download against `SHA256SUMS.txt`:
 
@@ -32,6 +32,7 @@ A file that fails this check did not come from the CoreTools release pipeline �
 
 | Version | Date | Downloads |
 | --- | --- | --- |
+| [v1.2.4](https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.2.4) | 2026-10-15 | [Windows](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/CoreTools-Windows-Setup.exe) · [macOS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/CoreTools-macOS.dmg) · [Linux](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/CoreTools-Linux.AppImage) · [SBOM](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/CoreTools-sbom.cdx.json) · [SHA256SUMS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/SHA256SUMS.txt) · [signature](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.4/SHA256SUMS.txt.sigstore.json) |
 | [v1.2.3](https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.2.3) | 2026-10-15 | [Windows](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/CoreTools-Windows-Setup.exe) · [macOS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/CoreTools-macOS.dmg) · [Linux](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/CoreTools-Linux.AppImage) · [SBOM](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/CoreTools-sbom.cdx.json) · [SHA256SUMS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/SHA256SUMS.txt) · [signature](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.3/SHA256SUMS.txt.sigstore.json) |
 | [v1.2.1](https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.2.1) | 2026-10-14 | [Windows](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/CoreTools-Windows-Setup.exe) · [macOS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/CoreTools-macOS.dmg) · [Linux](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/CoreTools-Linux.AppImage) · [SBOM](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/CoreTools-sbom.cdx.json) · [SHA256SUMS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/SHA256SUMS.txt) · [signature](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.1/SHA256SUMS.txt.sigstore.json) |
 | [v1.2.0](https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.2.0) | 2026-10-13 | [Windows](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/CoreTools-Windows-Setup.exe) · [macOS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/CoreTools-macOS.dmg) · [Linux](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/CoreTools-Linux.AppImage) · [SBOM](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/CoreTools-sbom.cdx.json) · [SHA256SUMS](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/SHA256SUMS.txt) · [signature](https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.2.0/SHA256SUMS.txt.sigstore.json) |
