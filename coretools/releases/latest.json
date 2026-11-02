@@ -1,38 +1,38 @@
 {
   "app": "coretools",
   "name": "CoreTools",
-  "version": "1.5.0",
-  "date": "2026-10-28",
-  "releaseUrl": "https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.5.0",
+  "version": "1.6.0",
+  "date": "2026-11-02",
+  "releaseUrl": "https://github.com/jaychandra1/artifacts/releases/tag/coretools-v1.6.0",
   "checksumsUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/SHA256SUMS.txt",
   "assets": [
     {
       "name": "CoreTools-Linux.AppImage",
-      "size": 93723128,
-      "sha256": "d467fd6a4f33d9914fce0be40e9bbd37fbc5216c891051cf33e90e3c2f0e07ee",
+      "size": 93964792,
+      "sha256": "540a310a9ac7341a33e1e2ccd4376e96843cc7c439359f29125b75a3f67533d7",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Linux.AppImage",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.5.0/CoreTools-Linux.AppImage"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.6.0/CoreTools-Linux.AppImage"
     },
     {
       "name": "CoreTools-Windows-Setup.exe",
-      "size": 12593673,
-      "sha256": "0a748fe07e1149e91fb99e3dcfcfed018a6eddbe97139e6f8708d16de8c25dc2",
+      "size": 12630460,
+      "sha256": "08de39245267ff6d25a8c53075a91c10d21b567e7ad60f352621df3cd76a6a40",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-Windows-Setup.exe",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.5.0/CoreTools-Windows-Setup.exe"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.6.0/CoreTools-Windows-Setup.exe"
     },
     {
       "name": "CoreTools-macOS.dmg",
-      "size": 28681909,
-      "sha256": "80ac175c55d13783a9df7384a63d5e4fb11572362bb433dd2b6d1b9631bd8f4e",
+      "size": 28771435,
+      "sha256": "5b0dfd6a9e01133bda2bb132d32c68e9143dd43fd72a710c84b97c9b08df9c5b",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-macOS.dmg",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.5.0/CoreTools-macOS.dmg"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.6.0/CoreTools-macOS.dmg"
     },
     {
       "name": "CoreTools-sbom.cdx.json",
-      "size": 883414,
-      "sha256": "2fe41ef63b81286e89d14a086fd39756adaa50ae9524886457c3d77b65129d7f",
+      "size": 878459,
+      "sha256": "971d8223374de3cdbee5087bcdcfbf7f901ea9dce9e75acb44d2859d9a052fd5",
       "url": "https://github.com/jaychandra1/artifacts/releases/download/coretools-latest/CoreTools-sbom.cdx.json",
-      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.5.0/CoreTools-sbom.cdx.json"
+      "versionedUrl": "https://github.com/jaychandra1/artifacts/releases/download/coretools-v1.6.0/CoreTools-sbom.cdx.json"
     }
   ]
 }
